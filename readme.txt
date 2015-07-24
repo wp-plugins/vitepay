@@ -75,27 +75,11 @@ Les mises à jour doivent absolument être automatique pour éviter les différe
 
 Merci de faire confiance au réseau Vitepay partenaires de Orange money sur le paiement en ligne.
 
-== A brief Markdown Example ==
+#== Merci ==
 
-Ordered list:
+Merci de faire confiance au réseau Vitepay partenaires de Orange money sur le paiement en ligne.
 
-1. Active le paiement en ligne à travers le réseau Orange money
+[vitepay]:http://vitepay.com
+[logineo]:http://logineo.com.com
 
-
-Unordered list:
-
-* Facile a intégrer
-* sécurisé
-* Fiable
-
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
-
-`<?php code(); // goes in backticks ?>`
 
