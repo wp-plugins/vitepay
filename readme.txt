@@ -31,7 +31,7 @@ Vitepay , through the Orange Money Network to complete transactions , provides a
 1. Se connecter sur vitepay et récupérer les accès a l’api
 4. se connecter sur l’interfaces d’administration de woocommerce et entrer les configurations dans les champs requis
 
-pour plus d’information www.vitepay.com/devellopers
+pour plus d’information www.vitepay.com
 
 == Frequently Asked Questions ==
 
