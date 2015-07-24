@@ -39,13 +39,7 @@ pour plus d’information www.vitepay.com/devellopers
 
 - Est il possible de payer avec autres choses que Orange money sur la plateforme?
 
-An answer to that question.
-
-= What about foo bar? =
-
-- Est il possible de payer avec autres choses que Orange money sur la plateforme?
-
-Nous nous sommes concentré sur Orange Money pour le Mali, bientôt d’autres moyens de paiement suivront.
+Nous nous sommes concentré sur Orange Money pour le Mali, bientôt d’autres moyens de paiement comme paypal suivront.
 
 == Screenshots ==
 
@@ -75,11 +69,7 @@ Les mises à jour doivent absolument être automatique pour éviter les différe
 
 Merci de faire confiance au réseau Vitepay partenaires de Orange money sur le paiement en ligne.
 
-#== Merci ==
-
-Merci de faire confiance au réseau Vitepay partenaires de Orange money sur le paiement en ligne.
-
 [vitepay]:http://vitepay.com
-[logineo]:http://logineo.com.com
+[logineo]:http://logineo.com
 
 
